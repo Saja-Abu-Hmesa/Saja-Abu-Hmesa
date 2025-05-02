@@ -1,7 +1,7 @@
 ## Hi, I'm Saja ✨
-### 🧠​ Software Engineering and AI student at University of Palestine (UP)
+<p>🧠​ Software Engineering and AI student at University of Palestine (UP) </p>
 
-​### 🌌​ I create AI models to stay consistent
+<p>🌌​ I create AI models to stay consistent </p>
 
 
 ## 🌐 Socials:
